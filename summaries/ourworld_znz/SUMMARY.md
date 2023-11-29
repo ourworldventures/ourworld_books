@@ -1,6 +1,6 @@
 # Zanzibar OurWorld
 
-- [INTRO](ow_intro.md)
+- [INTRO](company/ow_intro.md)
     - [Brave New Digital World](brave_new_world/brave_new_world_znz.md)
     - [No Painkillers](brave_new_world/no_pain_killer.md)
     - [Our Recipe](brave_new_world/the_recipe.md)
