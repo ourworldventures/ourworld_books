@@ -45,7 +45,7 @@
     - [Mission](mission/mission.md)
 - [ThreeFold Vision](mission/vision.md)
     - [Internet of Internets](mission/goals/1_concept_realization0.md)
-    - [Internet GDP Positivity](mission/goals/2_internet_GDP_positivity.md)
+    - [Internet GDP Positivity](mission/goals/2_internet_gdp_positivity.md)
     - [Realizing Web 4.0](mission/goals/3_realizing_web_4.md)
 - [MORE INFO](company/more_info.md)
 - [OURWORLD ECOSYSTEM](ourworld_ecosystem/ourworld_ecosystem.md)
