@@ -54,7 +54,7 @@
     - [OurWorld ZNZ](ourworld_ecosystem/ourworld_znz.md)
     - [OurTown ZNZ](ourworld_ecosystem/ourtown_znz.md)
     - [OurWorld Holding](ourworld_ecosystem/ourworld_holding.md)
-- [DETAILS](details.md)
+- [DETAILS]()
     - [Licenses Fintech](company/licenses/finance/finance_licenses_overview.md)
         - [PSP License](company/licenses/finance/psp.md) 
         - [PSP License Steps](company/licenses/finance/psp_steps.md) 
