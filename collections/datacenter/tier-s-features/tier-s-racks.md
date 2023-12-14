@@ -1,5 +1,5 @@
 
-![](img/tier-s-pod.png)
+![](img/tier_s_pod.png)
 
 # Tier S Racks
 

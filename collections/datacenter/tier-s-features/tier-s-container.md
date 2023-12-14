@@ -1,4 +1,4 @@
-![](img/tier-s-container.png)
+![](img/tier_s_container.png)
 
 # Tier-S Container System
 
