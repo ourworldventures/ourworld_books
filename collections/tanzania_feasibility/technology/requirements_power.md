@@ -1,1 +1,0 @@
-# Power availability and reliability

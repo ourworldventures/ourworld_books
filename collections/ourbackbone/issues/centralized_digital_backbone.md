@@ -1,1 +1,0 @@
-![](img/centralized_digital_backbone.png)  

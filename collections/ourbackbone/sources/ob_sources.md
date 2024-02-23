@@ -1,1 +1,0 @@
-https://www.techtarget.com/searchcio/tip/Top-6-reasons-why-digital-transformation-failures-happen
